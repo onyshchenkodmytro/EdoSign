@@ -1,0 +1,12 @@
+# build/cache
+bin/
+obj/
+.vs/
+*.user
+*.suo
+launchSettings.json
+
+# локальні налаштування та секрети
+appsettings.Development.json
+appsettings.*.local.json
+Data/storage/

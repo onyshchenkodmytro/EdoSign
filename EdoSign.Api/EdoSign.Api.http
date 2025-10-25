@@ -1,0 +1,6 @@
+@EdoSign.Api_HostAddress = http://localhost:5070
+
+GET {{EdoSign.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
